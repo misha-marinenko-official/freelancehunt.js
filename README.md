@@ -1,2 +1,2 @@
 # freelancehunt.js
-Freelancehunt mod fo tampermonkey.
+Freelancehunt mod for tampermonkey.
